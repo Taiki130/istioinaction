@@ -1,0 +1,94 @@
+{
+  "checksums": [
+    {
+      "id": "github_release/github.com/istio/istio/1.28.2/istioctl-1.28.2-linux-amd64.tar.gz",
+      "checksum": "80B1B61D3052DAC657AE0921DC58E65EE33619AB2E8FD8F796F17AF29669F71B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/istio/istio/1.28.2/istioctl-1.28.2-linux-arm64.tar.gz",
+      "checksum": "3A68800633DC92BD1799B100FAF0516030460A76230BA575AA6EC9CFCB1D435A",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/istio/istio/1.28.2/istioctl-1.28.2-osx-arm64.tar.gz",
+      "checksum": "BD3FBC18A66BD6A59F7C2CA16415EBF4CAFC4BB3FF1F524F259BE7F735BEEA73",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/istio/istio/1.28.2/istioctl-1.28.2-osx.tar.gz",
+      "checksum": "19EEB2C9BD25DE035A9FB321FF071BA7A775851314674F49F3935676EA4171F7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/istio/istio/1.28.2/istioctl-1.28.2-win.zip",
+      "checksum": "81C7B60BF2DC12BBF14615F9689FF7C0F6E04FE7784CA867C431428984ED6739",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/dl.k8s.io/v1.35.0/bin/darwin/amd64/kubectl",
+      "checksum": "2447CB78911B10A667202B078EEB30541EC78D1280C3682921DC81607E148D96",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/dl.k8s.io/v1.35.0/bin/darwin/arm64/kubectl",
+      "checksum": "CF699C56340DC775230FDE4EF84237D27563EA6EF52164C7D078072B586C3918",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/dl.k8s.io/v1.35.0/bin/linux/amd64/kubectl",
+      "checksum": "A2E984A18A0C063279D692533031C1EFF93A262AFCC0AFDC517375432D060989",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/dl.k8s.io/v1.35.0/bin/linux/arm64/kubectl",
+      "checksum": "58F82F9FE796C375C5C4B8439850B0F3F4D401A52434052F2DF46035A8789E25",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/dl.k8s.io/v1.35.0/bin/windows/amd64/kubectl.exe",
+      "checksum": "4C5D14B8673BD55F813A8965AD70D5150E3960EE5F274025E2286AEA3A0FA8B6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/dl.k8s.io/v1.35.0/bin/windows/arm64/kubectl.exe",
+      "checksum": "2F4963428A4CC317B9706B08150EBF39988DD70586D35A5AB7EEC2C0ABE95C2F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/golang.org/dl/go1.22.0.darwin-amd64.tar.gz",
+      "checksum": "EBCA81DF938D2D1047CC992BE6C6C759543CF309D401B86AF38A6AED3D4090F4",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/golang.org/dl/go1.22.0.darwin-arm64.tar.gz",
+      "checksum": "BF8E388B09134164717CD52D3285A4AB3B68691B80515212DA0E9F56F518FB1E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/golang.org/dl/go1.22.0.linux-amd64.tar.gz",
+      "checksum": "F6C8A87AA03B92C4B0BF3D558E28EA03006EB29DB78917DAEC5CFB6EC1046265",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/golang.org/dl/go1.22.0.linux-arm64.tar.gz",
+      "checksum": "6A63FEF0E050146F275BF02A0896BADFE77C11B6F05499BB647E7BD613A45A10",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/golang.org/dl/go1.22.0.windows-amd64.zip",
+      "checksum": "78B3158FE3AA358E0B6C9F26ECD338F9A11441E88BC434AE2E9F0CA2B0CC4DD3",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/golang.org/dl/go1.22.0.windows-arm64.zip",
+      "checksum": "31A61E41D06A3BB2189A303F5F3E777CA4B454EFF439F0A67BC2B166330021F4",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.449.0/registry.yaml",
+      "checksum": "B117D7C0B07300C422EC7C9A40810E671A0C50ECFB94857BF2121B2DDFD47360",
+      "algorithm": "sha256"
+    }
+  ]
+}
