@@ -14,3 +14,5 @@ packages:
   - name: istio/istio/istioctl@1.28.2
   - name: kubernetes/kubernetes/kubectl@v1.35.0
   - name: golang/go@go1.22.0
+  - name: ahmetb/kubectx/kubens@v0.9.5
+  - name: ahmetb/kubectx@v0.9.5
